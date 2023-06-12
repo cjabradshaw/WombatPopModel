@@ -1,5 +1,6 @@
 # Common wombat population projection model
 <img align="right" src="wombat.png" alt="common wombat" width="300" style="margin-top: 20px">
+<a href="https://zenodo.org/badge/latestdoi/414071047"><img src="https://zenodo.org/badge/414071047.svg" alt="DOI"></a>
 
 Stochastic Leslie matrix population model for the common wombat (<a href="https://australian.museum/learn/animals/mammals/common-wombat/"><em>Vombatus ursinus</em></a>)
 
